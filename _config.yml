@@ -47,6 +47,7 @@ search:
 
 # 自我介绍
 intro:
+  enable: false
   title: 👋 Hello
   sub: 'A [White](https://github.com/FuShaoLei/hexo-theme-white) theme for [Hexo](http://hexo.io/)' # 支持markdown
   avator: https://cdn.jsdelivr.net/gh/fushaolei/img/20200524104925.jpg #头像
