@@ -32,12 +32,12 @@ archive_img_mode: # TODO 这里需要改，不应该用这种图片，应该改�
 # icon
 icon: favicon.ico #标签页图标
 # header
-site_name: white
-site_description: A minimalist theme for hexo. # The default meta description for all the meta descriptions
+site_name: Tommy's Blog
+site_description:  # The default meta description for all the meta descriptions
 # Add description property to any page to change the meta description
 menu:
   首页: /
-  页面: /page
+  # 页面: /page
 
 
 ## 本地搜索 TODO 待处理
@@ -50,27 +50,27 @@ intro:
   enable: false
   title: 👋 Hello
   sub: 'A [White](https://github.com/FuShaoLei/hexo-theme-white) theme for [Hexo](http://hexo.io/)' # 支持markdown
-  avator: https://cdn.jsdelivr.net/gh/fushaolei/img/20200524104925.jpg #头像
-  author: fushaolei # 所有文章的默认作者
+  avator: https://avatars.githubusercontent.com/u/67463795 #头像
+  author: Tommy # 所有文章的默认作者
 
 #联系方式
 #更多图标：https://remixicon.com/
 contact:
   Github:
-    - https://github.com/FuShaoLei/hexo-theme-white
+    - https://github.com/Tommy-Zhang3759
     - ri-github-line
   Email:
-    - mailto:1563250958@qq.com
+    - tommyzhang4707@outlook.com
     - ri-mail-line
-  Music:
-    - https://music.163.com/
-    - ri-netease-cloud-music-line
-  Bilibili:
-    - https://bilibili.com/
-    - ri-bilibili-line
-  Youtube:
-    - https://youtube.com/
-    - ri-youtube-line
+  # Music:
+  #   - https://music.163.com/
+  #   - ri-netease-cloud-music-line
+  # Bilibili:
+  #   - https://bilibili.com/
+  #   - ri-bilibili-line
+  # Youtube:
+  #   - https://youtube.com/
+  #   - ri-youtube-line
 
 
 # comment
